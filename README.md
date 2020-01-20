@@ -8,7 +8,7 @@ stack that addresses all common technical challenges that projects face.
 
 This project is my best attempt at the perfect stack.
 
-When building this stack, I have no choice but to expose by bias toward certain tools and languages. That being
+When building this stack, I have no choice but to expose my bias toward certain tools and languages. That being
 said, I hope this project goes beyond petty internet flame wars and shows innovative solutions to problems that
 we all face as software developers, regardless of our personal preferences and what the hottest language happens
 to be this year.
@@ -35,7 +35,7 @@ tech stack.
 | Create internal reports                                 | ?                                                      | ?                           | ?                           |
 | Live environment monitoring                             | ?                                                      | ?                           | ?                           |
 
-A good project should also follow the guidelines of [The Twelve Factor app](https://12factor.net/).
+A good project should also follow the principles of [The Twelve Factor app](https://12factor.net/).
 
 For personal reason, I also wish to use this project to experiment with some new tech. This includes:
 
