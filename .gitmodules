@@ -1,6 +1,6 @@
 [submodule "app"]
 	path = app
-	url = https://github.com/jpnauta/ultimate-todo-app
+	url = https://github.com/jpnauta/ultimate-todo-app.git
 [submodule "web"]
 	path = web
-	url = https://github.com/jpnauta/ultimate-todo-web
+	url = https://github.com/jpnauta/ultimate-todo-web.git
